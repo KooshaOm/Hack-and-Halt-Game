@@ -94,7 +94,7 @@ This project is for educational purposes only and is not licensed for public dis
 
 ## Acknowledgments
 
-- **Verilog Modules**: 13 Verilog files addressing various game functionalities.
+- **Verilog Modules**: 14 Verilog files addressing various game functionalities.
 
 ## Future Improvements
 
