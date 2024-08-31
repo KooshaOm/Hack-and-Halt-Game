@@ -73,10 +73,11 @@ Hack-and-Halt-Game is a pioneering 2D multiplayer game designed for the Intel DE
 
 ## Examples and Demos
 
-- **Video Demo**: [Watch the Gameplay Video](#) (Include actual video link)
+- **Video Demo**: [Watch the Gameplay Video](https://youtu.be/SSyPJ6sB0Eg)
 - **Screenshots**:
-  - ![Game Screenshot](#) (Include actual screenshot)
-  - ![Endgame Screen](#) (Include actual endgame screenshot)
+   ![Map Screenshot](https://github.com/KooshaOm/Hack-and-Halt-Game/blob/main/media/map.jpg?raw=true)
+   ![Game Screenshot](https://github.com/KooshaOm/Hack-and-Halt-Game/blob/main/media/computer_wins_endscreen.jpg?raw=true)
+   ![Endgame Screen](https://github.com/KooshaOm/Hack-and-Halt-Game/blob/main/media/player_wins_endscreen.jpg?raw=true)
 
 ## Contribution
 
